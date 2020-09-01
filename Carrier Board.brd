@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.1">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -159,7 +159,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.YnVzaW5lc3M6bWNjbGVsbGFuZHM" projecturn="a.YnVzaW5lc3M6bWNjbGVsbGFuZHMjRDIwMTkxMDMxMjMzMjQyOTA2" f3durn="urn:adsk.wipprod:dm.lineage:sqG1dtYrT42ZkebfDKx6Qg" pcbguid="bb0f1a9f-acaa-422d-9350-2ef574ad34b8" lastpulledtime="" lastsyncedchangeguid="27aae1b1-50dd-963b-21a5-3c2c32781478" latestrevisionid="" lastsyncedrevisionid="" lastboardhashguid="" lastpushedtime="" linktopcb3d="%12"/>
+<fusionsync huburn="a.YnVzaW5lc3M6bWNjbGVsbGFuZHM" projecturn="a.YnVzaW5lc3M6bWNjbGVsbGFuZHMjRDIwMTkxMDMxMjMzMjQyOTA2" f3durn="urn:adsk.wipprod:dm.lineage:sqG1dtYrT42ZkebfDKx6Qg" pcbguid="bb0f1a9f-acaa-422d-9350-2ef574ad34b8" lastpulledtime="" lastsyncedchangeguid="27aae1b1-50dd-963b-21a5-3c2c32781478" latestrevisionid="" lastsyncedrevisionid="" lastboardhashguid="" lastpushedtime="" linktopcb3d="false"/>
 <plain>
 <wire x1="0" y1="0" x2="89.9668" y2="0" width="0" layer="20"/>
 <wire x1="89.9668" y1="0" x2="89.9668" y2="38.608" width="0" layer="20"/>
